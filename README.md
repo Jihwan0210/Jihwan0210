@@ -39,16 +39,14 @@
     </div>
     <br>
     <div align="center">
-        <a href="https://hits.seeyoufarm.com">
-            <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJihwan0210%2FJihwan0210&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/>
-        </a>
+        <img src="https://komarev.com/ghpvc/?username=Jihwan0210&style=for-the-badge&color=000000&label=PROFILE+VIEWS"/>
     </div> 
 </div>
 
 <div align="center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
     <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Jihwan0210&show_icons=true&hide_border=true&bg_color=30,a46060,000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jihwan0210&layout=compact&hide_border=true&bg_color=30,a46060,000000&title_color=ffffff&text_color=ffffff"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Jihwan0210&show_icons=true&theme=tokyonight&hide_border=true"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jihwan0210&layout=compact&theme=tokyonight&hide_border=true"/>
     </div> 
 </div>
