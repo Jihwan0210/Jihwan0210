@@ -1,38 +1,48 @@
-<h1 align="center">Hi 👋, I'm 유지환</h1>
-<h3 align="center">Backend Developer | Spring Boot | Java</h3>
+<h1 align="center">Jihwan Yu</h1>
+<p align="center">Backend Developer</p>
 
----
-
-### 🧑‍💻 About Me
-- 🌱 Currently learning **Spring Boot, Database, API Development**
-- 🎯 Goal: Becoming a **Backend Engineer**
-- 📫 Contact: your-email@example.com
-
----
-
-### 🛠 Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
----
-
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jihwan0210&show_icons=true&theme=default"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jihwan0210&layout=compact"/>
+  <a href="mailto:your-email@example.com">Email</a> •
+  <a href="https://github.com/Jihwan0210">GitHub</a>
 </p>
 
 ---
 
-### 🔥 Projects
-- 📝 Todo App (Spring Boot + MySQL)
-- 📊 Data Analysis Practice (R, Python)
+### About
+
+Backend-focused developer with an interest in building clean and scalable services.  
+Currently working with Spring Boot and relational databases, focusing on practical and maintainable code.
 
 ---
 
-### 💡 Motto
-> 꾸준함이 실력을 만든다.
+### Skills
+
+**Backend**
+- Java
+- Spring Boot
+- REST API
+
+**Database**
+- MySQL
+
+**Tools**
+- Git
+- GitHub
+
+---
+
+### Projects
+
+**Todo Application**  
+Spring Boot 기반의 CRUD 웹 애플리케이션  
+- REST API 설계 및 구현  
+- MySQL 연동  
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jihwan0210&show_icons=true&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jihwan0210&layout=compact&hide_border=true"/>
+</p>
