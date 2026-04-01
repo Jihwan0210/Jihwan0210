@@ -49,5 +49,7 @@
         <img src="https://streak-stats.demolab.com?user=Jihwan0210&theme=tokyonight&hide_border=true&locale=ko"/>
         <br/><br/>
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jihwan0210&theme=tokyo-night&hide_border=true"/>
+        <br/><br/>
+        <img src="http://mazandi.herokuapp.com/api?handle=Jihwan0210&theme=warm"/>
     </div> 
 </div>
