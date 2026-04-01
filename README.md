@@ -46,7 +46,8 @@
 <div align="center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
     <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Jihwan0210&show_icons=true&theme=tokyonight&hide_border=true"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jihwan0210&layout=compact&theme=tokyonight&hide_border=true"/>
+        <img src="https://streak-stats.demolab.com?user=Jihwan0210&theme=tokyonight&hide_border=true&locale=ko"/>
+        <br/><br/>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jihwan0210&theme=tokyo-night&hide_border=true"/>
     </div> 
 </div>
