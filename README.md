@@ -1,9 +1,12 @@
 <div align="center">
 유지환
 
-장애를 막는 일보다, 장애가 번지지 않게 만드는 일에 집중하는 백엔드 개발자입니다.
+기술 선택에 근거를 남기는 백엔드 개발자입니다
 
-Java · Spring Boot로 인증 · 결제 · 배치처럼 실패했을 때 영향이 큰 로직을 맡아 왔습니다.<br> 문제가 생기면 증상을 덮기 전에 영향 범위부터 확인하고, 고른 이유와 포기한 것을 함께 남깁니다.
+요구사항과 운영 환경을 살펴 해결하려는 문제를 기준으로 기술을 선택합니다. COGI에서는 AI 호출 비용을
+제한하기 위해 Redis의 만료 시간과 횟수 제한을 활용했습니다. PotatoChip에서는 개발·운영 환경에 맞춰 파일 저장
+방식을 전환할 수 있도록 구성했습니다. 팀의 진행 상황을 문서와 PR로 공유한 경험을 바탕으로, 동료가 선택의
+이유와 변경의 맥락을 이해할 수 있게 근거를 남기고자 합니다.
 
 <a href="https://jihwan0210.github.io"> <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white"> </a> <a href="mailto:mijisoo97@naver.com"> <img src="https://img.shields.io/badge/Email-0F9D58?style=for-the-badge&logo=gmail&logoColor=white"> </a> </div> <br>
 대표 프로젝트
