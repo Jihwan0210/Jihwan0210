@@ -5,7 +5,7 @@
 
 Java · Spring Boot로 인증 · 결제 · 배치처럼 실패했을 때 영향이 큰 로직을 맡아 왔습니다.<br> 문제가 생기면 증상을 덮기 전에 영향 범위부터 확인하고, 고른 이유와 포기한 것을 함께 남깁니다.
 
-<a href="https://jihwan0210.github.io"> <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white"> </a> <a href="mailto:mijisoo97@naver.com"> <img src="https://img.shields.io/badge/Email-0F9D58?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://mijisoo99.tistory.com/"> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"> </a> </div> <br>
+<a href="https://jihwan0210.github.io"> <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white"> </a> <a href="mailto:mijisoo97@naver.com"> <img src="https://img.shields.io/badge/Email-0F9D58?style=for-the-badge&logo=gmail&logoColor=white"> </a> </div> <br>
 대표 프로젝트
 프로젝트	한 줄 소개	역할	기술
 COGI	AI 코드 리뷰 구독형 SaaS	결제·구독 / 비로그인 체험 / 관리자	Spring Boot · JPA · Security · Redis · TossPayments
