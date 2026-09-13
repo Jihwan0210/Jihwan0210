@@ -15,8 +15,7 @@ COGI	AI 코드 리뷰 구독형 SaaS	결제·구독 / 비로그인 체험 / 관�
 PotatoChip	못난이 농작물 마켓플레이스	팀장 · 상품 도메인	Spring Boot · JPA · MariaDB · AWS · Docker
 읽고 (Ilgo)	AI 배리어프리 문서 해석 · 해커톤 3등	백엔드 API 서버 단독 개발	Spring Boot · Security · JWT · PostgreSQL
 
-각 저장소의 README에 서비스 개요 · 기술 스택 · 주요 기능 · 패키지 구조 · 실행 방법을 정리해 두었습니다.<br> 트러블슈팅 상세는 포트폴리오에서 볼 수 있습니다.
-
+각 저장소의 README에 서비스 개요 · 기술 스택 · 주요 기능 · 패키지 구조 · 실행 방법을 정리해 두었습니다.
 <br>
 기술 스택
 <div align="center"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"> <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/MyBatis-C74634?style=for-the-badge&logo=mybatis&logoColor=white"> <br/> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white"> <br/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> </div> <br>
