@@ -59,7 +59,3 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jihwan0210&show_icons=true&hide_border=true&theme=graywhite&hide_title=true" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jihwan0210&layout=compact&hide_border=true&theme=graywhite&hide_title=true" height="150">
-</div>
