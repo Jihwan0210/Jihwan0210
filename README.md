@@ -37,7 +37,7 @@
 
 | 프로젝트 | 한 줄 소개 | 역할 | 기술 |
 |---|---|---|---|
-| **[COGI](https://github.com/Jihwan0210)** | AI 코드 리뷰 구독형 SaaS | 결제·구독 / 비로그인 체험 / 관리자 | `Spring Boot` `JPA` `Security` `Redis` `TossPayments` |
+| **[COGI](https://github.com/Jihwan0210)** | AI 코드 리뷰 구독형 SaaS | 결제·구독 / 비로그인 체험 / 관리자 | `Spring Boot` `JPA` `Security` `Redis` |
 | **[PotatoChip](https://github.com/Jihwan0210)** | 못난이 농작물 마켓플레이스 | 팀장 · 상품 도메인 | `Spring Boot` `JPA` `MariaDB` `AWS` `Docker` |
 | **[읽고 (Ilgo)](https://github.com/Jihwan0210)** | AI 배리어프리 문서 해석 · 해커톤 3등 | 백엔드 API 서버 단독 개발 | `Spring Boot` `Security` `JWT` `PostgreSQL` |
 
